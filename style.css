@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/Roboto-Bold.woff2') format('woff2'),
+        url('fonts/Roboto-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PT Serif';
+    src: url('fonts/PTSerif-Bold.woff2') format('woff2'),
+        url('fonts/PTSerif-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+div {
+  font-family: 'PT Serif'
+  font-weight:bold;
+}
+
+nav {
+  font-family: 'Roboto'
+  font-weight: bold;
+}
+
+h1 {
+  font-family: 'PT Serif';
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+button {
+  font-family: 'Roboto';
+  font-weight: bold;
+}
